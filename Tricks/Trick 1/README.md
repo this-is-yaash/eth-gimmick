@@ -8,6 +8,7 @@ curl --output filename.ext --url https://yoururl.com
 ```
 This command downloads the metadata and data from the specified URL (`https://yoururl.com`), saving it as `filename.ext`.
 
+--- 
 ### Exercise 1:
 Imagine you are in a private computer laboratory with restricted browser usage, but you have an internet connection.
 
@@ -31,21 +32,22 @@ curl --output code.html --url https:cl1p.net/eth
 ![cl1p.net/eth screenshot](./screenshot/image.png)
 
 > **Important Tip**: *use [cl1p.net](https://cl1p.net) to create an online clipboard to store your code temporarily*
-
+--- 
 ### Exercise 2:
-You find yourself in a restricted environment, same as Exercise 1. However, this time, you face an additional challenge — you're unable to download any files directly from the site.
+You find yourself in a restricted environment, the same as Exercise 1. However, this time, you face an additional challenge — you're unable to download any files directly from the site.
 
 **Scenario**: You require a specific code snippet for a project, but you're in a computer lab where downloading files is restricted. Despite the limitations, you have internet access.
 
-**Solution**: Just use `curl` to get the code from the website and *see it right in the terminal*. No need to download a file, you can check and use the code directly.
+**Solution**: Use `curl` to fetch the code directly from the website and view it right in the terminal. No need to download a file; you can check and use the code directly.
 
 ```bash
-curl https://cl1p.net/eth
+curl https://yoururl.com/codeSnippet
+
 ```
 Resulting in a terminal output rather than a downloaded file.
 
 ![terminal output](./screenshot/terminal.png)
-
+---
 ### Exercise 3:
 
 **Situation**: The environment is now even more restricted, with monitoring on everyone's PC. Downloading files or running certain commands might be closely watched.
