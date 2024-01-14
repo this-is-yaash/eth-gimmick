@@ -27,6 +27,7 @@ cd yourdirectory
 ```bash
 curl --output code.html --url https:cl1p.net/eth
 ```
+use `curl.exe` if you are on Windows.
 
 *I've already made a clipboard with my code inside. Just so you know, you can make a clipboard with any web address you like. This makes it easy to keep and share your code whenever you need*
 
