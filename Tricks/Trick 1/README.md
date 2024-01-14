@@ -1,4 +1,5 @@
 # Trick 1: Retrieving Data with Curl
+*Retrieve or Download data from a website without using Browser*
 
 **Objective:** Use `curl` to retrieve data from a site without using any browser.
 
