@@ -10,7 +10,7 @@ Ever wanted to scrape data from a website without opening a browser? Well, we've
    - **How to Use**: Check out the detailed instructions in [README.md](./Tricks/Trick%201/README.md)
 
 
-### 2. AccAccess Internet & Navigate without Opening a Browser, Using Python! 🌐
+### 2. Access Internet & Navigate without Opening a Browser, Using Python! 🌐
 
 Navigate the internet like a ninja without the need for a browser. Execute Python code to access and interact with web content.
    - **Code Snippet**: [open_broswer.py](./Tricks/Trick%202/open_browser.py)
